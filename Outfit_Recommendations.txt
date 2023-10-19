@@ -1,0 +1,40 @@
+Date: 2023-09-07, City: NEW YORK
+Show Details: New York - Hanifa
+Outfit recommendation:  Wear a dress with a trench coat and a pair of boots
+Weather details: Mild weather, Temperature: 17.93°C, Clouds: 100%, 10:45:12 sunrise, 22:51:04 sunset
+  - Description: mist
+  - Humidity: 90%
+  - Wind Speed: 10.8 m/s
+--------------------------------------------------
+Date: 2023-09-15, City: LONDON
+Show Details: London - Dilara
+Outfit recommendation:  Wear a dress with a trench coat and a pair of boots
+Weather details: Mild weather, Temperature: 17.93°C, Clouds: 40%, 05:49:04 sunrise, 17:56:19 sunset
+  - Description: scattered clouds
+  - Humidity: 75%
+  - Wind Speed: 5.14 m/s
+--------------------------------------------------
+Date: 2023-09-25, City: PARIS
+Show Details: Paris - Balmain
+Outfit recommendation: Wear a T-shirt and jeans and a statement blazer.
+Weather details: Mild weather, Temperature: 17.93°C, Clouds: 0%, 05:39:17 sunrise, 17:46:18 sunset
+  - Description: clear sky
+  - Humidity: 51%
+  - Wind Speed: 5.66 m/s
+--------------------------------------------------
+Date: 2023-09-19, City: MILAN
+Show Details: Milan - Prada
+Outfit recommendation:  Wear a dress with a trench coat and a pair of boots
+Weather details: Mild weather, Temperature: 17.93°C, Clouds: 0%, 05:12:03 sunrise, 17:18:50 sunset
+  - Description: clear sky
+  - Humidity: 50%
+  - Wind Speed: 1.03 m/s
+--------------------------------------------------
+Date: 2024-09-30, City: MILAN
+Show Details: No fashion show on this date
+Outfit recommendation: Wear a relaxed tailored blazer & trousers with t-shirt, heels and sunglasses.
+Weather details: Mild weather, Temperature: 17.93°C, Clouds: 0%, 05:12:03 sunrise, 17:18:50 sunset
+  - Description: clear sky
+  - Humidity: 51%
+  - Wind Speed: 1.03 m/s
+--------------------------------------------------
