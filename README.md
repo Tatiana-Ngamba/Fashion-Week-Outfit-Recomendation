@@ -1,4 +1,4 @@
-# Fashion-Week-Outfit-Recomendation
+# Fashion-Week-Outfit-Recommendation
 
 ### My Python assignment for the CFG Degree:
 
