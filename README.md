@@ -8,3 +8,9 @@ The app also stores her inputs and the corresponding recommendations for future 
 
 * This is my first time building something with Python.
 * This is the first time using an API.
+
+### The Python code to fetch the API data and to generate the outfit recomendation can be found here:
+- [Fashion Week Outfit Selector](https://github.com/Tatiana-Ngamba/Fashion-Week-Outfit-Recommendation/blob/main/Fashion-Week-Outfit-Selector.py)
+
+### The text file with the outfit recomendation can be found here:
+- [Outfit_Recommendations](https://github.com/Tatiana-Ngamba/Fashion-Week-Outfit-Recommendation/blob/main/Outfit_Recommendations.txt)
